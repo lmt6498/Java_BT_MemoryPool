@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# CodeStream ignored files
+/../../BT_MemoryPool\.idea/codestream.xml
+# Datasource local storage ignored files
+/../../../../:\JavaProject\BT_MemoryPool\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
